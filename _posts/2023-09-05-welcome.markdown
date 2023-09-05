@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2023-09-05 17:13:00 -0500
+categories: about
+---
+Welcome to my blog!
+
+I mainly plan on using this blog to write about projects that I work on. I may
+also write about reverse-engineering efforts, or whatever else I may find interesting.
+
