@@ -6,7 +6,8 @@ permalink: /about/
 
 I'm Peter Farley, an Embedded Engineer in Minnesota. I graduated from the University
 of St. Thomas with a bachelors degree in Computer Engineering. In my professional life, I
-write software for embedded devices, in particular power concious microcontroller-based
+write software for embedded devices, currently Linux-based devices and focused on
+cellular routers. Previously, I worked on power conscious microcontroller-based
 products utilizing cellular for networking, and GNSS receivers for location.
 
 In my personal life I also enjoy working with embedded systems, though more from
