@@ -25,11 +25,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://farlepet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  farlepet
+owner: Peter Farley
 
 # Build settings
-theme: minima
+#theme: hacker
 plugins:
   - jekyll-feed
+
+feed:
+  excerpt_only: true
+  posts_limit: 50
 
 # Exclude from processing.
 # The following items will not be processed, by default.
